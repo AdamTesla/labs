@@ -16,7 +16,7 @@
 
 Сортировка Вставками:
 
-<img style="float: left;" src="/images/time_insert.png">
+<img style="float: left;" src="/lab2/images/time_insert.png">
 Сортировка Выбором:
 
 <img style="float: left;" src="/images/time_select.png">
