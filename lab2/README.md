@@ -19,24 +19,24 @@
 <img style="float: left;" src="/lab2/images/time_insert.png">
 Сортировка Выбором:
 
-<img style="float: left;" src="/images/time_select.png">
+<img style="float: left;" src="/lab2/images/time_select.png">
 Сортировка Слиянием:
 
-![Merge sort spent time](/images/time_merge.png)
+![Merge sort spent time](/lab2/images/time_merge.png)
 
 Сортировка Слиянием (итеративная):
 
-![IterMerge sort spent time](/images/time_iterMerge.png)
+![IterMerge sort spent time](/lab2/images/time_iterMerge.png)
 
 Сортировка Шелла:
 
-![Shell sort spent time](/images/time_shell.png)
+![Shell sort spent time](/lab2/images/time_shell.png)
 
 ### Используемая память
 По вертикали указано количество используемой памяти в МБ. По вертикали указаны типы сортировок.
-![Used memory 1250](/images/memory_1250.png)
-![Used memory 10000](/images/memory_10000.png)
-![Used memory 15000](/images/memory_15000.png)
-![Used memory 25000](/images/memory_25000.png)
-![Used memory 60000](/images/memory_60000.png)
-![Used memory 100000](/images/memory_100000.png)
+![Used memory 1250](/lab2/images/memory_1250.png)
+![Used memory 10000](/lab2/images/memory_10000.png)
+![Used memory 15000](/lab2/images/memory_15000.png)
+![Used memory 25000](/lab2/images/memory_25000.png)
+![Used memory 60000](/lab2/images/memory_60000.png)
+![Used memory 100000](/lab2/images/memory_100000.png)
